@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z8JOZ42+eiEsW+NKetl3G+NgDnob4YaWmU9Yjg39P2UQr48aX6Qo8znkrl3A06Lbx1th7Uk+p0LJQFrPDUg7OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gintautas.pusinskas\\Downloads\\Gintautas\\Gintautas\\CongestionFeeApp\\CongestionFeeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gintautas.pusinskas\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\gintautas.pusinskas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

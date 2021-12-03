@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJfn+CVnNUg3lPkW0N2vwpbmICvyhSdFe6a2d01lyd3NWd1EY0gmNz00whhxhoDEhq/8vwKZi52PWjBgB4h60A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gintautas.pusinskas\\Downloads\\Gintautas\\Gintautas\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gintautas.pusinskas\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\gintautas.pusinskas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

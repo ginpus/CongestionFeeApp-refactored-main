@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xKWBBtWEYe0LPYoLKrlUjrnPWLND5yvhs6hSAgVy6MWtbGjN6bBTNvLiaiFs99J4Eaoe+Xx4RxzoAL7KCTTFwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gintautas.pusinskas\\Downloads\\Gintautas\\Gintautas\\Persistence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gintautas.pusinskas\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\gintautas.pusinskas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "645ca635-3c36-44f9-b661-c2cdaca4382e": {
+      "ProjectGuid": "645ca635-3c36-44f9-b661-c2cdaca4382e",
+      "DisplayName": "CongestionFeeApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e2c479d6-0364-45aa-a124-8f5b4c2cc2b0": {
+      "ProjectGuid": "e2c479d6-0364-45aa-a124-8f5b4c2cc2b0",
+      "DisplayName": "Persistence",
+      "ColorIndex": 1
+    },
+    "77e53e96-0c22-4e8f-815a-05b402538329": {
+      "ProjectGuid": "77e53e96-0c22-4e8f-815a-05b402538329",
+      "DisplayName": "Domain",
+      "ColorIndex": 2
+    },
+    "a819e880-5730-482e-ac5e-d589de066b60": {
+      "ProjectGuid": "a819e880-5730-482e-ac5e-d589de066b60",
+      "DisplayName": "Contracts",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
